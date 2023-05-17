@@ -2,8 +2,15 @@
 name = "gstest1"
 version = "0.1.0"
 edition = "2021"
+
 license = "MIT"
+
 description = "an useful function"
+authors = ["gs-sa"]
+
+repository = "https://github.com/gs-sa/gstest1"
+readme = "readme.md"
+keywords = ["stl"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
